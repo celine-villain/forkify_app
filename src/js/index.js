@@ -16,8 +16,6 @@ Global state of the app :
 - Liked recipes
 */
 const state = {};
-window.state = state;
-
 
 // *************************************
 // ********* SEARCH CONTROLLER *********
